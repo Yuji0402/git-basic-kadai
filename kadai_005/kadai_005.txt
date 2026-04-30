@@ -1,0 +1,16 @@
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git add .
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git commit -m "1回目"
+[main 143919e] 1回目
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git add .
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git commit -m "2回目" 
+[main 921aa35] 2回目
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git log --oneline
+921aa35 (HEAD -> main) 2回目
+143919e 1回目
+66ed470 2回目
+273c1e3 1回目
+2e447c6 2回目
+9736a68 1回目
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % 

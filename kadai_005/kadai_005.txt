@@ -1,0 +1,14 @@
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git init
+Initialized empty Git repository in /Users/ikedayuuji/git_challenge/.git/
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git add .
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git commit -m "1回目"
+[main (root-commit) 71d2a50] 1回目
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hellow_world.txt
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git add .
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git commit -m "２回目"
+[main 45bcb61] ２回目
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+ikedayuuji@ikedayuujinoMacBook-Air git_challenge % git log --oneline
+45bcb61 (HEAD -> main) ２回目
+71d2a50 1回目
